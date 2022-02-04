@@ -155,3 +155,7 @@ If you would like to check if it has been built correctly, follow along but if y
 and overwrite the file. Of course before copying, you can backup the file just in case.
 
 28. Congratulations on your first **Master Duel MOD!** Now open the game, and check it out! Have fun!
+
+# Here is a video link of the MOD in action!
+
+# https://streamable.com/cawjso
